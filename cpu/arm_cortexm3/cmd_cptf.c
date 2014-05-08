@@ -20,7 +20,6 @@
 
 #include <common.h>
 #include <command.h>
-#include <string.h>
 #include "envm.h"
 
 /*
